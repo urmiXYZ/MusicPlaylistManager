@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35514.174 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicPlaylistManager", "MusicPlaylistManager\MusicPlaylistManager.csproj", "{B6E29776-8ACA-457F-8373-2803184D1947}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{95F85BB2-A8BC-435C-A737-62B2F2717515}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{29D8E4CF-E3DD-483D-8B7B-7E036F4C1E57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6E29776-8ACA-457F-8373-2803184D1947}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6E29776-8ACA-457F-8373-2803184D1947}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6E29776-8ACA-457F-8373-2803184D1947}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6E29776-8ACA-457F-8373-2803184D1947}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95F85BB2-A8BC-435C-A737-62B2F2717515}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95F85BB2-A8BC-435C-A737-62B2F2717515}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95F85BB2-A8BC-435C-A737-62B2F2717515}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95F85BB2-A8BC-435C-A737-62B2F2717515}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29D8E4CF-E3DD-483D-8B7B-7E036F4C1E57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29D8E4CF-E3DD-483D-8B7B-7E036F4C1E57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29D8E4CF-E3DD-483D-8B7B-7E036F4C1E57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29D8E4CF-E3DD-483D-8B7B-7E036F4C1E57}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
